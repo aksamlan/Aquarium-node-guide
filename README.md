@@ -1,8 +1,3 @@
-Harika, işte yapıştırabileceğin tam `README.md` içeriğin:
-
----
-
-```markdown
 # Aquarium Validator Node Installation Repository
 
 This repo is prepared for developers who want to quickly set up an Aquarium Validator node using Docker.
@@ -131,6 +126,3 @@ After completing the installation:
 ```bash
 docker compose down
 ```
-```
-
----
