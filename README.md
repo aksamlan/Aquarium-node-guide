@@ -7,7 +7,8 @@ Twitter : [Buradan](https://x.com/FluidTokens)
 
 # Kurulum videosu 
 
-https://youtu.be/QlBXXYU5IpQ?si=Xkh_ec8bd2HOrprG
+[![Kurulum Guide](https://img.youtube.com/vi/QlBXXYU5IpQ/0.jpg)](https://youtu.be/QlBXXYU5IpQ?si=Xkh_ec8bd2HOrprG)
+
 
 
 ## 🚀 Gereksinimler
