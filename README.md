@@ -1,6 +1,6 @@
-# Miden Node Kurulum Reposu
+# Aquarium Validator node Kurulum Reposu
 
-Bu repo, Polygon Miden Node'u Docker kullanarak hızlı şekilde kurmak isteyen geliştiriciler için hazırlanmıştır.
+Bu repo, Aquarium Validator node'u Docker kullanarak hızlı şekilde kurmak isteyen geliştiriciler için hazırlanmıştır.
 
 Discord : [Buradan](https://discord.gg/AkSbwWXJ)
 Twitter : [Buradan](https://x.com/FluidTokens)
@@ -79,7 +79,7 @@ docker compose up -d
 
 ### Logları Kontrol Et
 ```bash
-docker logs aquarium-pg --tail 50
+docker logs aquarium --tail 50
 ```
 
 
