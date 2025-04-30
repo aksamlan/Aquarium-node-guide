@@ -67,8 +67,10 @@ cd docker
 ### Ortam Dosyasını Hazırla
 ```bash
 cp .env.example .env
+nano .env
 ```
-- `.env` dosyasındaki `BLOCKFROST_KEY` ve `WALLET_MNEMONIC` alanlarını doldurun.
+- `.env` dosyasındaki `BLOCKFROST_KEY` ve `WALLET_MNEMONIC` alanlarını doldurun ve ardından CTRL X + Y + ENTER diyerek kaydedip çıkın.
+- Blockfrost API için [Buradan](https://blockfrost.io/) kaydolun ve bir API key alınız.
 
 ### Docker ile Node’u Başlat
 ```bash
